@@ -1,0 +1,28 @@
+{
+  "files": {
+    "app.js": "/expo-gh-pages/static/js/app.6ab6cad4.chunk.js",
+    "app.js.map": "/expo-gh-pages/static/js/app.6ab6cad4.chunk.js.map",
+    "runtime~app.js": "/expo-gh-pages/static/js/runtime~app.3dbcb4f3.js",
+    "runtime~app.js.map": "/expo-gh-pages/static/js/runtime~app.3dbcb4f3.js.map",
+    "static/js/2.78d36c09.chunk.js": "/expo-gh-pages/static/js/2.78d36c09.chunk.js",
+    "static/js/2.78d36c09.chunk.js.map": "/expo-gh-pages/static/js/2.78d36c09.chunk.js.map",
+    "fonts/MaterialCommunityIcons.ttf": "/expo-gh-pages/./fonts/MaterialCommunityIcons.ttf",
+    "fonts/roboto-italic.ttf": "/expo-gh-pages/./fonts/roboto-italic.ttf",
+    "fonts/roboto-regular.ttf": "/expo-gh-pages/./fonts/roboto-regular.ttf",
+    "favicon-16.png": "/expo-gh-pages/favicon-16.png",
+    "favicon-32.png": "/expo-gh-pages/favicon-32.png",
+    "favicon.ico": "/expo-gh-pages/favicon.ico",
+    "index.html": "/expo-gh-pages/index.html",
+    "manifest.json": "/expo-gh-pages/manifest.json",
+    "serve.json": "/expo-gh-pages/serve.json",
+    "static/js/2.78d36c09.chunk.js.LICENSE.txt": "/expo-gh-pages/static/js/2.78d36c09.chunk.js.LICENSE.txt",
+    "static/media/Gradient_xCTmx4q.png": "/expo-gh-pages/static/media/Gradient_xCTmx4q.59b8d691.png",
+    "static/media/avatar1.png": "/expo-gh-pages/static/media/avatar1.b5af07f1.png",
+    "static/media/cardImage.png": "/expo-gh-pages/static/media/cardImage.18de0768.png"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.3dbcb4f3.js",
+    "static/js/2.78d36c09.chunk.js",
+    "static/js/app.6ab6cad4.chunk.js"
+  ]
+}
